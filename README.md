@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucinaO
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning anything and everything about Software Development!
 - 🌱 I’m currently learning fundamentals of web development
 - 💞️ I’m looking to collaborate on computer programming
 - 📫 How to reach me is through here
